@@ -5,3 +5,4 @@ hello lff! hello git!
 hello lff! hello git!
 hello lff! hello git!
 hello lff! hello git!master test
+hello lff! hello git!hot-fix test
