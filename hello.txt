@@ -7,3 +7,4 @@ hello lff! hello git!
 hello lff! hello git!master test
 hello lff! hello git!hot-fix test
 lff add 1 line code
+11111111111111 by lhc
